@@ -1,0 +1,27 @@
+name = OpenSource Panda
+description = The Theme Design for OpenSource Panda Site
+core = 7.x
+engine = phptemplate
+screenshot = screenshot.png
+base theme = premium_corporate
+
+stylesheets[all][] = opensource_panda.css
+
+regions[sidebar_first]  = First Sidebar
+regions[header]         = Header
+regions[preface_first]  = Preface first
+regions[preface_middle] = Preface middle
+regions[preface_last]   = Preface last
+regions[content_top]    = Content Top
+regions[content]        = Content
+regions[help]           = Help
+regions[footer]         = Footer
+regions[footer_first]   = First Bottom
+regions[footer_second]  = Second Bottom
+regions[footer_third]   = Third Bottom
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = comment_user_verification

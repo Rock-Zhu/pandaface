@@ -1,0 +1,20 @@
+#logoimg {
+    margin-top: -25px;
+}
+
+#slider_nivo {
+    height: 260px;
+}
+
+#slider-wrap {
+    height: 260px;
+}
+
+.language-switcher-locale-url li {
+    float: left;
+    margin-right: 40px;
+}
+
+code {
+  display: inline;
+}
